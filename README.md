@@ -9,22 +9,22 @@ a better sense of the musical content. All of the original set of lyrics are fro
 
 After 28,000 iterations, here is the new set of Stupeflip lyrics:
 
-`ces porcs qui sont pas d'mon bord
-J'ai choisi ce son
-Car il est bon comme un bon bourbon
-Moi ma rage j'la fous pas n'importe où
-J'suis pas cette dans les guerres sur d'se rien
-Ca voche tres pas ?
-Qui sous le café coisses claire grosse !
-Moi pa chentrient d'saisiler !
-(Où qu'il était, hein ?) le Casimor de Casimir !
-Enfermalgique, alblie je suis assis
+> ces porcs qui sont pas d'mon bord
+> J'ai choisi ce son
+> Car il est bon comme un bon bourbon
+> Moi ma rage j'la fous pas n'importe où
+> J'suis pas cette dans les guerres sur d'se rien
+> Ca voche tres pas ?
+> Qui sous le café coisses claire grosse !
+> Moi pa chentrient d'saisiler !
+> (Où qu'il était, hein ?) le Casimor de Casimir !
+> Enfermalgique, alblie je suis assis
 
-[Refrain] X2
-Des voulus, un disques d'saisimgres qui claquent
-Tu veux l'truc qui t'prend aux couilles ?
-Écoute le Stupeflip Crou
-Mangu, MC Salo, C`
+> [Refrain] X2
+> Des voulus, un disques d'saisimgres qui claquent
+> Tu veux l'truc qui t'prend aux couilles ?
+> Écoute le Stupeflip Crou
+> Mangu, MC Salo, C'''
 
 Check out the original work here: https://github.com/gsurma/text_predictor
 
